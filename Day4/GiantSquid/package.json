@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "^4.5.2",
+    "@types/node": "^16.11.11"
+  },  
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  }
+}
